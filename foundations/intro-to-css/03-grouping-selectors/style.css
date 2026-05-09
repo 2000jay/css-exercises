@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.both.first{
+    background-color: black;
+    color: white;
+}
+
+.both.second{
+background-color: yellow;
+
+}
+.both{
+font-size: 24px;
+font-family: Helvetica, "Times New Roman",sans-seri;
+}
