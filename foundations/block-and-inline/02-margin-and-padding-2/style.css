@@ -25,3 +25,30 @@ button {
   background: white;
   border: 1px solid #eee;
 }
+
+/*SOLUTION*/
+*{
+  font-size: 16px;
+}
+
+.card {
+padding: 10px;
+}
+
+.title{
+  margin: 10px;
+  padding: 10px;
+}
+
+.content{
+  margin: 10px;
+  padding: 10px;
+}
+
+.button-container{
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
